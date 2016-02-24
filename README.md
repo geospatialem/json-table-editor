@@ -15,3 +15,4 @@ An attempt to create a Json table editor, without a spatial component.
 * Allow users to input in a url that will grab the Json.
 * Table view example: [Geojson.io](http://geojson.io), or the [GitHub repo](https://github.com/mapbox/geojson.io).
 * Button example: [Json Editor Online](http://jsoneditoronline.org), or the [Github Repo](https://github.com/josdejong/jsoneditor).
+* *Nice to have option:* Sortable values that move the entire row when sorting.
